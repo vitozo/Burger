@@ -831,7 +831,7 @@ footer {
       text-align: right; } }
 
 .hero {
-  background: url("../img/bg/hero-bg.jpg") center center no-repeat;
+  background: url("/img/bg/hero-bg.jpg") center center no-repeat;
   background-size: cover;
   position: relative; }
   @media screen and (max-width: 768px) {
